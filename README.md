@@ -1,7 +1,7 @@
 
 ## **LIBFT**
 
-![LIBFT](https://github.com/beatrizdile/beatrizdile-utils/blob/master/libftm.png "libft")
+![LIBFT]((https://github.com/Arcane-Jill/images/blob/main/libft2.png) "libft")
 
 Libft is the first project we undertake at **Hive** Helsinki, which is a school in the 42 network. It is fundamental to the rest of our studies as we create our own C library with valuable functions that we make use of throughout the duration of the C curriculum. 
 
