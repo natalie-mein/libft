@@ -1,7 +1,9 @@
 
 ## **LIBFT**
 
-<div style="text-align:center"><img src="https://github.com/Arcane-Jill/images/blob/main/libft2.png" /></div>
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/Arcane-Jill/images/blob/main/libft2.png">
+</p>
 
 Libft is the first project we undertake at **Hive** Helsinki, which is a school in the 42 network. It is fundamental to the rest of our studies as we create our own C library with valuable functions that we make use of throughout the duration of the C curriculum. 
 
