@@ -15,7 +15,7 @@ My libft has all the required functions from the project, plus a few more that I
 
 #### **part 1**
 
-The functions in the first part of the project are copies of standard C ibrary functions and are mostly for string manipulation.
+The functions in the first part of the project are copies of standard C library functions and are mostly for string manipulation.
 
 #### **part 2**
 
