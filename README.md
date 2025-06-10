@@ -24,3 +24,12 @@ In part 2, we look at more string manipulation. But this time, we use malloc and
 #### **bonus**
 
 In this part we were introduced to linked lists and linked list manipulation.
+
+### Usage and compilation
+To compile the library, you can use the following commands:
+- ```make``` or ```make all``` - Compiles the library.
+- ```make clean``` - Removes the object files generated during compilation.
+- ```make fclean``` - Removes the compiled library and the object files.
+- ```make re``` - Forces a recompilation of the library.
+- ```make bonus``` - Compiles the library including the bonus part.
+
